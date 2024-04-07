@@ -19,7 +19,7 @@ The Customer Shopping Preferences Dataset is a synthetic dataset created for edu
   
 - `SQL_Analysis.ipynb`: This notebook contains SQL queries used to answer specific business questions regarding customer behavior and purchasing patterns. It includes queries for analyzing aspects such as purchasing behaviors between the different customer groups, promo code usage rates, and product category preferences.
 
-- Tableau Dashboard: A Tableau workbook file that contains a dashboard visualizing customer segmentation based on the analysis. This visualization helps in understanding different customer groups and their preferences, aiding in targeted marketing strategies. <br>
+- Tableau Dashboard: A Tableau dashboard that visualizes the customer segments. This visualization helps in understanding different customer groups and their preferences, aiding in targeted marketing strategies. <br>
 Dashboard: https://public.tableau.com/app/profile/vish.ramesh/viz/ShoppingTrendsDashboard_17119387864360/TheDashboard
 
 ## How to Use
