@@ -36,9 +36,6 @@ Dashboard: https://public.tableau.com/app/profile/vish.ramesh/viz/ShoppingTrends
 - Libraries: pandas, numpy, matplotlib, seaborn (for Python notebooks)
 - A SQL database setup if you wish to run the SQL queries directly (details for setup not provided here).
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
